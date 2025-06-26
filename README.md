@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetos 3º Ano - Maria Cecília</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</head><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+<body>
+    <header>
+        <div class="logo">
+            <h1><span>MC</span> Integral</h1>
+        </div>
+    </header>
+
+    <section class="apresentacao">
+        <img src="imagens/3A.jpg" alt="Turma do 3º Ano">
+        <p><strong>Olá! Nós somos o terceiro ano do Maria Cecília!</strong></p>
+        <p>
+            Durante este primeiro semestre de 2025, junto da professora Natália, 
+            nós cursamos e trabalhamos nos projetos de JavaScript e HTML proporcionados pela Alura, 
+            utilizando a plataforma p5.js!
+        </p>
+    </section>
+
+    <section class="projetos">
+        <h2>Nossos projetos:</h2>
+        <div class="grid">
+            <div>
+                <h3>Projeto Monalisa</h3>
+                <img src="imagens/monalisa1.png" alt="Monalisa 1">
+                <img src="imagens/monalisa2.png" alt="Monalisa 2">
+            </div>
+            <div>
+                <h3>Jogo de Corrida</h3>
+                <img src="imagens/corrida1.png" alt="Jogo Corrida 1">
+                <img src="imagens/corrida2.png" alt="Jogo Corrida 2">
+            </div>
+        </div>
+    </section>
+</body>
+</html>
